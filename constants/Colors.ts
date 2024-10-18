@@ -17,10 +17,14 @@ export const Colors = {
   },
   dark: {
     text: '#ECEDEE',
-    background: '#151718',
+    background: '#24252A',
+    backgroundCompliment: '#111214',
+    backgroundNavbar: '##383a46',
     tint: tintColorDark,
     icon: '#9BA1A6',
     tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+    tabIconSelected: 'rgb(0, 135, 169)',
+    okayucdn_blue: 'rgb(0, 135, 169)',
+    okayucdn_blue_hover: 'rgba(0, 136, 169, 0.5)'
   },
 };
